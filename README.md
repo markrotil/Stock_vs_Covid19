@@ -32,7 +32,5 @@ For this project we will be using MongoDB to assemble and query the data, Mongo 
 
 Our Sources of Data:
 
-Our sources of data are:
-
 - Yahoo Finance where we will obtain the CSV’s for the stock prices on a day to day basis
 - Global News which provides a timeline which we will take and convert into a CSV. (https://globalnews.ca/news/6859636/ontario-coronavirus-timeline/)
