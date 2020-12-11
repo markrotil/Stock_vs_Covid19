@@ -27,7 +27,7 @@ We hypothesis that fluctuations of stock prices are strongly correlated with key
 
 What We Are Using:
 
-For this project we will be using PostGRES to assemble and query the data, Mongo Atlas to manage changes to the SQL code and Github as the repository.
+For this project we will be using MongoDB to assemble and query the data, Mongo Atlas to manage changes to the SQL code and Github as the repository.
 
 
 Our Sources of Data:
