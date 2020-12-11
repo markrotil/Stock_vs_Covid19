@@ -1,17 +1,9 @@
-# Stock_vs_Covid19  
-Companies:  
-Travel - Bombardier, Air Canada  
-Telecom - Bell, Rogers  
-Entertainment - Cineplex, Great Canadian Gaming, Recipe Unlimited  
-Tech - Nuvei, Shopify  
-
 Project
 
 Our project is aims to determine the impact of Covid-19 on 9 stocks across following industries:
 
 * Hospitality
 * Aviation
-* Manufacturing
 * Entertainment
 * Technology 
 * Telecommunications
@@ -24,10 +16,9 @@ Hypothesis:
 
 We hypothesis that fluctuations of stock prices are strongly correlated with key events in Covid-19 such as lockdowns and that the correlation has weakened as time has gone.
 
-
 What We Are Using:
 
-For this project we will be using MongoDB to assemble and query the data, Mongo Atlas to manage changes to the SQL code and Github as the repository.
+For this project we will be using PostGREs to assemble and query the data, ElephantSQL to manage changes to the SQL code and Github as the repository.
 
 
 Our Sources of Data:
