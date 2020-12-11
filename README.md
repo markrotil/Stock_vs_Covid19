@@ -18,10 +18,10 @@ We hypothesis that fluctuations of stock prices are strongly correlated with key
 
 What We Are Using:
 
-For this project we will be using PostGREs to assemble and query the data, ElephantSQL to manage changes to the SQL code and Github as the repository.
+For this project we will be using PostgreSQL and SQlAlchemy to assemble and query the data, ElephantSQL to collaborate and manage changes to the SQL code and Github as the repository.
 
 
 Our Sources of Data:
 
-- Yahoo Finance where we will obtain the CSV’s for the stock prices on a day to day basis
+- Yahoo Finance where we will obtain the CSVâ€™s for the stock prices on a day to day basis
 - Global News which provides a timeline which we will take and convert into a CSV. (https://globalnews.ca/news/6859636/ontario-coronavirus-timeline/)
