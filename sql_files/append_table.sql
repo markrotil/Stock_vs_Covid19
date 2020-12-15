@@ -1,0 +1,17 @@
+SELECT * FROM aircanada
+UNION
+SELECT * FROM bell
+UNION
+SELECT * FROM bombardier
+UNION
+SELECT * FROM cineplex
+UNION
+SELECT * FROM great_canadian_gaming
+UNION
+SELECT * FROM nuvei_corp
+UNION
+SELECT * FROM recipe_ultd
+UNION
+SELECT * FROM rogers_canada
+Union
+SELECT * FROM shopify
