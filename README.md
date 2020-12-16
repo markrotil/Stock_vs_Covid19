@@ -16,17 +16,17 @@ Stock Market influence of COVID 19 <br>
 * Technology 
 * Telecommunications
 
-We will track prices of these stocks from the 1st of January 2020 to the 4th of December 2020 and then compare it to the previous time from 2019. 
+We will track the prices of these stocks from the 1st of January 2020 to the 4th of December 2020 and then compare it to the previous year. 
 
-One we have done this we will identify if the fluctuations in prices correspond with key events during Covid-19 such as the first case of Covid-19.
+One we have done this, we will identify if the fluctuations in prices correspond with key events during Covid-19 such as the first case of Covid-19.
 
 <b>Hypothesis:</b>
 
-We hypothesis that fluctuations of stock prices are strongly correlated with key events in Covid-19 such as lockdowns and that the correlation has weakened as time has gone.
+We hypothesize that fluctuations of stock prices are strongly correlated with key events in Covid-19 such as lockdowns and that the correlation has weakened as time passed.
 
 <b>What We Are Using:</b>
 
-For this project we will be using PostgreSQL and SQlAlchemy to assemble and query the data, ElephantSQL to collaborate and manage changes to the SQL code and Github as the repository.
+For this project we will be using PostgreSQL and SQlAlchemy to assemble and query the data, ElephantSQL to collaborate and manage changes to the SQL code, and Github as the repository.
 
 
 <b>Our Sources of Data:</b>
