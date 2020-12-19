@@ -22,7 +22,7 @@ One we have done this, we will identify if the fluctuations in prices correspond
 
 <b>Hypothesis:</b>
 
-Our hypothesis is that fluctuations of stock prices are strongly correlated with key events in Covid-19 such as lockdowns and that the correlation has weakened as time passed and that this applies across all sectors of the stock market.  
+We hypothesize that fluctuations of stock prices are strongly correlated with key events in Covid-19 such as lockdowns and that the correlation has weakened as time passed and that this applies across all sectors of the stock market.  
 
 <b>What We Are Using:</b>
 
