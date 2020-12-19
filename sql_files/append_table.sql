@@ -1,3 +1,6 @@
+/*Combining all uploaded tables into a single table called combined_table*/
+
+CREATE TABLE combined_table AS (
 SELECT * FROM aircanada
 UNION
 SELECT * FROM bell
@@ -13,5 +16,5 @@ UNION
 SELECT * FROM recipe_ultd
 UNION
 SELECT * FROM rogers_canada
-Union
-SELECT * FROM shopify
+UNION
+SELECT * FROM shopify)
